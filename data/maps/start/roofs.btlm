@@ -1,0 +1,11 @@
+tiles/houses.png
+>.  none        0   0
+>U  red_roof    0   2
+MAP
+.
+..UUUU
+..UUUU....UUUU...................UUUU
+..UUUU....UUUU....UUUU...........UUUU
+..UUUU....UUUU....UUUU...........UUUU
+..........UUUU....UUUU...........UUUU
+..................UUUU

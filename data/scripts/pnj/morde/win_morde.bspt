@@ -1,0 +1,7 @@
+add_music       deathfire_grasp
+add_equipment   outfits/morde_helmet
+dialogue        Arg!$You$defeat$me Your$metal$music$was$better than$mine I$admit$my$defeat
+dialogue        Go$to$the$south there$is$a$zombie$army with$strange$songs Raah$I$hate$these$songs
+dialogue    congrat!$you$won$new equipments$and$new$songs!
+
+saved_var_set       6   2

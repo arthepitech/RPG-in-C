@@ -1,0 +1,6 @@
+IF      comparison      #3  ==  0
+    dialogue   Hey$you! You$know$being$the$pink$one do$not$mean$that$I'm$a$girl! Oh,$well,$I'm$a$girl... But$it's$not$because$I'm$the$pink$one
+UNLESS  comparison      #3  ==  0
+    dialogue   TwT
+
+saved_var_set       3       1

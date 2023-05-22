@@ -1,0 +1,6 @@
+add_music       beethoven_virus
+add_equipment   outfits/punk_skull
+dialogue    Arg!
+dialogue    congrat!$you$won$new equipments$and$new$songs!
+
+saved_var_set       11   2

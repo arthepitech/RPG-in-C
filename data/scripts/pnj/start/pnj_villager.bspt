@@ -1,0 +1,6 @@
+IF      comparison      #9  ==  0
+    dialogue   Bards!$We$need$your$help! Go$in$this$house The$mayor$is$waiting$you!
+UNLESS  comparison      #9  ==  0
+    dialogue   Hurry!
+
+saved_var_set       9       1

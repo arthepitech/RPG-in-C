@@ -1,0 +1,6 @@
+start_battle    mj
+
+IF      comparison      #0  ==  1
+    dialogue    HIHI!$Finally$someone$interesting$joining$my$family
+IF  comparison      #0  ==  0
+    call_script    pnj/mj/win_mj

@@ -1,0 +1,13 @@
+window      misc/menu                   20  2      0   0   from_center centered
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    999
+button      $               pure_white  1   0      none                    0

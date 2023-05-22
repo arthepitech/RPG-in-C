@@ -1,0 +1,6 @@
+chars/default.png      0   0
+none
+
+>on_load    COMMAND     set_texture_rect`@1`-1
+>on_load                menus/player_status_tick
+>on_tick                menus/player_status_tick

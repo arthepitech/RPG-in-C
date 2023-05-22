@@ -1,0 +1,21 @@
+tiles/house_details.png
+>.  none            0   0
+>M  brown_planks    0   3   fence
+>?  none            0   0   player
+MAP
+.
+.
+.
+.
+.....MMM
+.
+.......MMMMMMMM
+.
+.............?
+.                                     .
+.                                     ?
+.              .?                     .
+...............?.?                    .
+.              .?                     .
+.                                     .
+.............MMMMM......MMMM?..........

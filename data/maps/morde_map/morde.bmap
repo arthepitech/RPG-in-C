@@ -1,0 +1,24 @@
+morde_map/morde1/ground
+none
+morde_map/morde1/ground_overlay
+morde_map/morde1/trees
+morde_map/morde1/trees_overlay
+morde_map/morde1/pnj_overlay
+morde_map/morde1/skulls
+none
+none
+
+Field01
+
+tp_to_morde/tp_morde_out             1   15    -1   38  8
+tp_mj/tp_to_mj                       26  27    -1   19  1
+map_morde/pnj/pnj_skelpunk           30  10
+map_morde/pnj/pnj_skelpunk2          31  13
+map_morde/pnj/pnj_knight_red         39   4
+map_morde/pnj/pnj_knight_blue        38   5
+map_morde/pnj/pnj_knight_yellow      37   5
+map_morde/pnj/pnj_knight_black       36   6
+map_morde/pnj/pnj_knight_pink        35   6
+map_morde/pnj/pnj_knight_bis         39  18
+map_morde/pnj/pnj_cyborg             35  16
+map_morde/boss/boss_morde            38  12

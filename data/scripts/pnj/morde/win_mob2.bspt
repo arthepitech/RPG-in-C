@@ -1,0 +1,5 @@
+add_equipment   outfits/fusion_warrior
+dialogue    Arg!
+dialogue    congrat!$you$won$new equipments$and$new$songs!
+
+saved_var_set       13   2

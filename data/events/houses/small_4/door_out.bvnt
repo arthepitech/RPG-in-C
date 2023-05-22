@@ -1,0 +1,4 @@
+tiles/doors.png         0   1
+doors/blue_1            1
+
+>player_interaction     COMMAND     teleport_players`start`@1`@2

@@ -1,0 +1,19 @@
+save_new
+add_music           guardian
+add_music           hotel_california
+add_music           lightbringer_acoustic
+add_music           the_top
+add_equipment       instruments/banjo
+add_equipment       instruments/bass
+add_equipment       instruments/glockenspiel
+add_equipment       instruments/mandolin
+equip_player        instruments/guitar
+equip_player        outfits/default
+dialogue            Welcome$bards! The$world$require$your$help! But$before$you$start$your$adventure I'll$explain$the$situation
+dialogue            An$organization$worked$on$a$project that$will$make$time$travel$possible Theyfailed$and$now$portals$appeared...
+dialogue            But$it$wasn't$the$worst... People$from$ancient$time$came$out of$the$portals! And$our$world$has$been$invaded!
+dialogue            We$tried$to$destroy$these$portals with$our$techology. But$it$didn't$work$and$the$portals started$to$create$an$environment from$ancient time$that$can$expend
+dialogue            You$must$defeat$the$boss of$each$portal and$close$these$portals to$save$our$world
+dialogue            If$we$chosed$you it$was$because$there$is only$music$that$can$defeat$them And$you$are$the$bests.
+teleport_players    start                           6   7
+dialogue            Our$bards$arrived$in$a small$village$that$is$not$affected by$the$portals

@@ -1,0 +1,4 @@
+chars/futur_cyborg.png
+outfits/futur_cyborg
+
+>player_interaction     COMMAND     equip_player`outfits/futur_cyborg`@0

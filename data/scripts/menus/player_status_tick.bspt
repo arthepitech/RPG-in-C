@@ -1,0 +1,7 @@
+IF      is_player_connected     @0
+    set_palette_player          @0
+
+texture_with_player             @0
+
+UNLESS  is_player_connected     @0
+    call_script                 menus/player_status_empty

@@ -1,0 +1,14 @@
+mj_map/MJ/ground
+none
+none
+mj_map/MJ/trees
+mj_map/MJ/trees_overlay
+mj_map/MJ/coll_boss
+mj_map/MJ/ground_tomb
+none
+none
+
+Field01
+
+tp_mj/tp_mj_out         19   0   -1  26   26
+map_mj/boss_mj          19   13

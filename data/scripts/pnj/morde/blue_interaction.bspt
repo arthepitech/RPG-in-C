@@ -1,0 +1,6 @@
+IF      comparison      #2  ==  0
+    dialogue   I'm$the$smartest$of$the$group! That's$why$I$deserve$the$most$the blue$suit
+UNLESS  comparison      #2  ==  0
+    dialogue   Go$go$paladin$force!
+
+saved_var_set       2       1

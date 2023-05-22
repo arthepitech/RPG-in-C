@@ -1,0 +1,4 @@
+misc/overlay.png        1   1
+status/default          1   0
+
+>on_tick                            pnj/start/status_crusader

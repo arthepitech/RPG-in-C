@@ -1,0 +1,7 @@
+add_music       the_devil_went_down_to_georgia
+add_equipment   outfits/mj_suit.bitm
+dialogue        I$hoped$so$much$that$you would$join$my$family
+dialogue    congrat!$you$won$new equipments$and$new$songs!
+dialogue    Return$to$the$mayor He$has$a$suprise$for$you
+
+saved_var_set       7   2

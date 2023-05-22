@@ -1,0 +1,4 @@
+chars/fusion_warrior.png
+outfits/fusion_warrior
+
+>player_interaction     COMMAND     equip_player`outfits/fusion_warrior`@0

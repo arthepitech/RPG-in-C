@@ -1,0 +1,4 @@
+misc/overlay.png        0   1
+status/default          1   0
+
+>on_tick                            pnj/houses/1_status_tick

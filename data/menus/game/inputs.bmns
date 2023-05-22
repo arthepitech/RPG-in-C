@@ -1,0 +1,6 @@
+window      misc/menu                   18  16      0   0   from_center centered
+button      Player$1        pure_white  1   6       menus/game/inputs/p1    1
+button      Player$2        pure_white  1   9       menus/game/inputs/p2    2
+button      Player$3        pure_white  10  6       menus/game/inputs/p3    3
+button      Player$4        pure_white  10  9       menus/game/inputs/p4    4
+button      Back            pure_white  1   14      none                    0   close

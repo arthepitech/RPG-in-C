@@ -1,0 +1,14 @@
+B
+A
+Y
+X
+L
+R
+ZL
+ZR
+Select
+Start
+L-Click
+R-Click
+Home
+?

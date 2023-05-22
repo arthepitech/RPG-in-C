@@ -1,0 +1,4 @@
+chars/elderwood.png
+outfits/elderwood
+
+>player_interaction     COMMAND     equip_player`outfits/elderwood_outfit`@0

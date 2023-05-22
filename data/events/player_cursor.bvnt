@@ -1,0 +1,5 @@
+misc/overlay.png        1   0
+none                    1   0
+
+>on_load    COMMAND     set_palette_player`@0
+>on_tick                player/cursor_tp

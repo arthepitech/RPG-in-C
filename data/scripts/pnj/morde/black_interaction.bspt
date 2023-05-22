@@ -1,0 +1,6 @@
+IF      comparison      #1  ==  0
+    dialogue   *whisper* I$think$my$mates$are$racists... They$gave$me$the$black$suit And$you$know$what?
+UNLESS  comparison      #1  ==  0
+    dialogue   I'm$a$black$man...
+
+saved_var_set       1       1

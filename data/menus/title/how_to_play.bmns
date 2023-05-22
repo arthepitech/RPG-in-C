@@ -1,0 +1,14 @@
+window      misc/menu                   18  16      0   0   from_center centered
+button      Back                    pure_white  1.5 14      none                    0   close
+button      Fighting$for$newer$Bards:           pure_white  1   1       none    999
+button      -$When$a$fight$starts,              pure_white  1   2       none    999
+button      $$Choose$a$music$to$play.           pure_white  1   3       none    999
+button      -$Then,$play$your$song$in$group,    pure_white  1   4       none    999
+button      $$Your$damages$will$depends$on      pure_white  1   5       none    999
+button      $$the$precision$of$your$band.       pure_white  1   6       none    999
+button      -$If$you$make$NO$mistake,           pure_white  1   7       none    999
+button      $$you$add$your$Bonus$Crit!          pure_white  1   8       none    999
+button      -$Remember$that$sometimes,          pure_white  1   9       none    999
+button      $$being$good$isn't$enough:          pure_white  1   10       none    999
+button      $$Try$more$powerful$outfits!        pure_white  1   11       none    999
+button      -$And$rembember:$it's$'Bard-diff'   pure_white  1   12       none    999

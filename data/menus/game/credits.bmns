@@ -1,0 +1,24 @@
+window      misc/menu                   18  16      0   0   from_center centered
+button      Back                    pure_white  1.5 14      none                    0   close
+button      Stupid$guys:            pure_white  1   1       none    999
+button      $Arthaud$Poupard        pure_white  2.5 2       none    999
+button      $Virgile$Berrier        pure_white  2.5 3       none    999
+button      $Flavien$Maillard       pure_white  2.5 4       none    999
+button      $Cyprien$Nguyen$Van$Vien  pure_white  2.5   5       none    999
+button      Music$stolen$from:      pure_white  1   7       none    999
+button      $YouFulca$(he's$amazing)    pure_white  2.5 8       none    999
+button      $+so$many$artists       pure_white  2.5 9       none    999
+button      Our$love:               pure_white  1   11      none    999
+button      $Hoppy$^._.^            pure_white  2.5 12      none    999
+window      misc/menu/p2                2   1      1.5    3
+event       menus/arthaud               0.5 0
+window      misc/menu/p3                2   1      1.5    4
+event       menus/virgile               0.5 0
+window      misc/menu/p4                2   1      1.5    5
+event       menus/flavien               0.5 0
+window      misc/menu/p1                2   1      1.5    6
+event       menus/cyprien               0.5 0
+window      misc/menu                   2   1      1.5    9
+event       menus/youfulca              0.5 0
+window      misc/menu                   2   1      1.5    10
+window      misc/menu                   2   1      1.5    13

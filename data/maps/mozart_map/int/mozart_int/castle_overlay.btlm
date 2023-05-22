@@ -1,0 +1,22 @@
+tiles/mozart_castle_int.png
+>.  none            0   0
+>G  desk            0   4   fence
+>D  desk            0   5   fence
+>-  desk            0   6   fence
+>m  gray_bricks     0   2   fence
+>t  fire            0   3   fence
+MAP
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+m..............................m
+m.t..........................t.m
+m..............................m
+m.........t..........t.........m
+m............G----D............m
+m..............................m
+m.........t..........t.........m
+m..............................m
+m..............................m
+m.........t..........t.........m
+m.t..........................t.m
+m..............................m
+mmmmmmmmmmmmmmm..mmmmmmmmmmmmmmm

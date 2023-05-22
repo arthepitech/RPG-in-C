@@ -1,0 +1,11 @@
+IF      comparison      #12  ==  0
+    dialogue   Greetings$Bards I'm$the$mayor We$don't$have$time$for$explanations You$must$go$in$the$Est There$are$stange$songs$there
+UNLESS  comparison      #12  ==  0
+    dialogue   Move$on!
+
+saved_var_set       12       1
+saved_var_set       0       #6
+saved_var_set       0       #7
+
+IF      comparison  #0  ==  4
+    call_script     house/win_end

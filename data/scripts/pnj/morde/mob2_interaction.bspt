@@ -1,0 +1,12 @@
+IF      comparison      #13  ==  0
+    dialogue   You$will$die$for my$lord
+IF  comparison      #13  ==  0
+    dialogue   *crackles*
+
+UNLESS  comparison      #13  ==  0
+    dialogue   I'm$ready$for$my$revenge!
+
+IF  comparison      #13  ==  0
+    saved_var_set       13       1
+
+call_script            pnj/morde/battle2

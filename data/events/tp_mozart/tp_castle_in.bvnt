@@ -1,0 +1,4 @@
+tiles/floor.png      0    3
+floor/brown_planks
+
+>player_tile    COMMAND     teleport_players`mozart_map/int/castle_int`@1`@2

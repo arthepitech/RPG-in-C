@@ -1,0 +1,2 @@
+IF      comparison      #12  >= 1
+    set_texture_rect    1   0

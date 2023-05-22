@@ -1,0 +1,4 @@
+chars/helmet.png
+outfits/morde_iii
+
+>player_interaction     COMMAND     equip_player`outfits/morde_golden_helmet`@0

@@ -1,0 +1,26 @@
+start/ground
+none
+start/ground_overlay
+start/trees
+start/trees_overlay
+start/walls
+start/walls_overlay
+start/roofs
+start/roofs_overlay
+
+Field01
+
+houses/small_1/door_in          3    5      -1   1   4
+houses/small_2/door_in          11   6      -1   1   4
+houses/small_3/door_in          20   7      -1   1   4
+houses/small_4/door_in          35   6      -1   1   4
+tp_to_morde/tp_morde            39   8      -1   2  15
+map1/pnj_knight                 38  10
+map1/pnj_knight_status          38  9
+map1/pnj_villager               13  8
+map1/villager_status            13  7
+map1/pnj_villager               15  12
+map1/pnj_villager               17  12
+map1/pnj_villager               16  11
+map1/pnj_villager               16  13
+map1/pnj_mob                    28  15

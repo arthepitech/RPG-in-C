@@ -1,0 +1,6 @@
+IF      comparison      #5  ==  0
+    dialogue   I'm$very$glad I$didn't$get$the$pink$suit...
+UNLESS  comparison      #5  ==  0
+    dialogue   But$the$yellow?$Seriously? Come$on$guys...
+
+saved_var_set       5       1

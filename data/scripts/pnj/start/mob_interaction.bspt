@@ -1,0 +1,12 @@
+IF      comparison      #11  ==  0
+    dialogue   I'm$here$for$training
+IF  comparison      #11  ==  0
+    dialogue   *crackles*
+
+UNLESS  comparison      #11  ==  0
+    dialogue   I'm$ready$for$my$revenge!
+
+IF  comparison      #11  ==  0
+    saved_var_set       11       1
+
+call_script            pnj/start/battle

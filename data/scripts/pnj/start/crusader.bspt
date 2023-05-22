@@ -1,0 +1,6 @@
+IF      comparison      #8  ==  0
+    dialogue   Oy$stanger! Be$careful$in$the$forest There$is$a$labyrinth$$where$you$could get$lost
+UNLESS  comparison      #8  ==  0
+    dialogue   You$know,$being$here$the$whole$day is$tiring But$there$is$always$a$metalic$song I$love$it
+
+saved_var_set       8       1

@@ -1,0 +1,6 @@
+start_battle    skelpunk
+
+IF      comparison      #0  ==  1
+    dialogue    This$victory$is for$our$lord!
+IF  comparison      #0  ==  0
+    call_script    pnj/start/win_mob

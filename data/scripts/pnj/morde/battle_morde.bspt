@@ -1,0 +1,6 @@
+start_battle    morde
+
+IF  comparison      #0  ==  1
+    dialogue    HAHA!$You$lost! My$power$surpass$everything!
+IF  comparison      #0  ==  0
+    call_script    pnj/morde/win_morde

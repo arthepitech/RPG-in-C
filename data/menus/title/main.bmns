@@ -1,0 +1,10 @@
+window      misc/menu                   10  8       0   0   centered    from_center     parallax
+event       menus/player_status_title   1   -1      1   0
+event       menus/player_status_title   3   -1      2   0
+event       menus/player_status_title   6   -1      3   1
+event       menus/player_status_title   8   -1      4   1
+button      Continue        pure_white  1   1       menus/title/continue    0   close
+button      New$Story       pure_white  1   2       menus/title/new_game    0
+button      How$To$Play     pure_white  1   4       menus/title/howtoplay   0
+button      Settings        pure_white  1   5       menus/title/settings    0
+button      Quit            pure_white  1   6       menus/title/quit        0

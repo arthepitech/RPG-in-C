@@ -1,0 +1,4 @@
+chars/metal_wig.png
+outfits/short_of_power
+
+>player_interaction     COMMAND     equip_player`outfits/short_of_power`@0

@@ -1,0 +1,6 @@
+add_music       lonely_day
+add_equipment   outfits/elderwood_outfit
+dialogue    Arg!
+dialogue    congrat!$you$won$new equipments$and$new$songs!
+
+saved_var_set       10   2

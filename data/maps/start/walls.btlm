@@ -1,0 +1,15 @@
+tiles/houses.png
+>.  none        0   0
+>I  house_gray  0   1   block
+>[  house_gray  1   1   wall_left
+>]  house_gray  2   1   wall_right
+>X  pure_black  0   1   block
+MAP
+.
+.
+..[II]
+..[II]....[II]...................[II]
+..[II]....[II]....[II]...........[II]
+..[XI]....[II]....[II]...........[II]
+..........[XI]....[II]...........[IX]
+..................[IX]

@@ -1,0 +1,3 @@
+reset_palette
+set_palette_player          -1
+set_alpha                   25

@@ -1,0 +1,11 @@
+IF   comparison      #6  ==  0
+    dialogue   How$dare$you$interrupt$my$concert! Do$you$know$what$it$means? ...No$talking?$To$me? I'll$destroy$your$soul!
+IF  comparison      #6  ==  0
+    dialogue   *Play$a$metal$song*
+UNLESS  comparison      #6  ==  0
+    dialogue   I'm$ready$for$my$revenge!
+
+IF  comparison      #6  ==  0
+    saved_var_set       6       1
+
+call_script            pnj/morde/battle_morde

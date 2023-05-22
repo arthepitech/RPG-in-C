@@ -1,0 +1,6 @@
+chars/default.png      0   2
+outfits/fire_dragon
+
+>on_load    COMMAND     set_palette_player`@0
+>on_load    COMMAND     place_event`player_cursor`-100`-100`@0
+>on_tick                player/tp

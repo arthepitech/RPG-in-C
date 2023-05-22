@@ -1,0 +1,4 @@
+tiles/floor.png      0    0
+brown_planks
+
+>player_tile   COMMAND     teleport_players`morde_map/morde`@1`@2

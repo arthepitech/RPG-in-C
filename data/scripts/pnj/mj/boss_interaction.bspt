@@ -1,0 +1,11 @@
+IF      comparison      #7  ==  0
+    dialogue   Hihi! I$woke$up$of$my$thriller! Now$you$will$join$my$zombie$familly.
+IF  comparison      #7  ==  0
+    dialogue   Cause$this$is$thriller! Thriller$night
+UNLESS  comparison      #7  ==  0
+    dialogue   I'm$ready$for$my$revenge!
+
+IF  comparison      #7  ==  0
+    saved_var_set       7       1
+
+call_script pnj/mj/battle_mj

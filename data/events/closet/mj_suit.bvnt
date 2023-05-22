@@ -1,0 +1,4 @@
+chars/thriller.png
+outfits/thriller
+
+>player_interaction     COMMAND     equip_player`outfits/mj_suit`@0

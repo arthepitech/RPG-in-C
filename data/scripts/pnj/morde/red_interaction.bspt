@@ -1,0 +1,6 @@
+IF      comparison      #4  ==  0
+    dialogue   Hello$there! I'm$the$chief$of$'paladin$force'...
+UNLESS  comparison      #4  ==  0
+    dialogue   Oh$yeah$I$know I'm$the$most$beautiful$one Thanks!
+
+saved_var_set       4       1

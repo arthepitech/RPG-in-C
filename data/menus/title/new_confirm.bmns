@@ -1,0 +1,10 @@
+window      misc/menu                   10  8       0   0   centered    from_center
+event       menus/player_status_title   1   -1      1   0
+event       menus/player_status_title   3   -1      2   0
+event       menus/player_status_title   6   -1      3   1
+event       menus/player_status_title   8   -1      4   1
+window      misc/menu/p2                20  6       0   0   centered    from_center
+button      Warning!                            pure_white  1   1       none                    999
+button      You're$about$to$erase$your$save!    pure_white  1   2       none                    999
+button      Erase                               pure_white  1   4       menus/title/new_confirm
+button      Cancel                              pure_white  11  4       none                    0   close

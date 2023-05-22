@@ -1,0 +1,4 @@
+white
+white_yellow
+beige
+brown

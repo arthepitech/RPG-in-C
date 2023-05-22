@@ -1,0 +1,4 @@
+tiles/floor.png      0    0
+brown_planks
+
+>player_tile    COMMAND     teleport_players`start`@1`@2

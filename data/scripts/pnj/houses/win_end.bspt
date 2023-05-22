@@ -1,0 +1,6 @@
+add_equipment   short_of_power
+add_equipment   morde_golden_helmet
+add_equipment   futur_cyborg
+add_music       through_the_fire_and_flames
+
+saved_var_set   #0      2
